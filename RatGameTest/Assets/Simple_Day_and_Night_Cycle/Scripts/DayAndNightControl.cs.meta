@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ba45972cdf7f384bbb1082869bc08bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StarDome: {instanceID: 0}
+  - moonState: {instanceID: 0}
+  - moon: {instanceID: 0}
+  - directionalLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
